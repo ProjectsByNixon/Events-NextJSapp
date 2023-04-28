@@ -1,3 +1,5 @@
+import data from "../public/data";
+
 const FeaturedEvents = () => {
 	return (
 		<div>
