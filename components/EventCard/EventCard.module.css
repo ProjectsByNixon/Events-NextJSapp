@@ -1,0 +1,52 @@
+.event_card {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	border-radius: 8px;
+	overflow: hidden;
+	text-decoration: none;
+	transition: transform 0.2s ease-out;
+	margin: 50px auto;
+	width: 500px;
+}
+
+.event_card:hover {
+	transform: scale(1.05);
+}
+
+.event_card__image_container {
+	position: relative;
+	height: 200px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.event_card__image_container img {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+	height: auto;
+}
+
+.event_card__content {
+	padding: 16px;
+	text-align: center;
+}
+
+.event_card__title {
+	margin: 0;
+	font-size: 24px;
+	font-weight: 700;
+	color: #333;
+}
+
+.event_card__date,
+.event_card__location {
+	margin: 8px 0;
+	font-size: 16px;
+	font-weight: 500;
+	color: #666;
+}

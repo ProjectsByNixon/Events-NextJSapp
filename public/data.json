@@ -1,0 +1,119 @@
+[
+	{
+		"id": 1,
+		"title": "Summer Music Festival",
+		"description": "Come join us for a fun-filled day of music and sun! Featuring local and regional bands, food trucks, and more.",
+		"location": "Central Park",
+		"date": "June 15, 2023",
+		"image": "1.jpg",
+		"isFeatured": true
+	},
+	{
+		"id": 2,
+		"title": "Artisan Craft Fair",
+		"description": "Shop handmade goods from local artisans and makers at this outdoor craft fair. Live music, food vendors, and more.",
+		"location": "Main Street",
+		"date": "July 8-9, 2023",
+		"image": "2.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 3,
+		"title": "Charity 5K Run",
+		"description": "Get fit and raise money for a good cause at this charity run/walk. All ages and fitness levels welcome.",
+		"location": "Riverfront Park",
+		"date": "September 23, 2023",
+		"image": "3.jpg",
+		"isFeatured": true
+	},
+	{
+		"id": 4,
+		"title": "Food Truck Rally",
+		"description": "Sample delicious cuisine from a variety of food trucks at this outdoor rally. Live music, beer garden, and more.",
+		"location": "Fairgrounds",
+		"date": "August 12, 2023",
+		"image": "4.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 5,
+		"title": "Fireworks Spectacular",
+		"description": "Celebrate Independence Day with a bang! Enjoy a dazzling fireworks display over the city skyline.",
+		"location": "City Stadium",
+		"date": "July 4, 2023",
+		"image": "5.jpg",
+		"isFeatured": true
+	},
+	{
+		"id": 6,
+		"title": "Wine Tasting Festival",
+		"description": "Sample award-winning wines from local vineyards and enjoy live music and food pairings.",
+		"location": "Winery Field",
+		"date": "October 14-15, 2023",
+		"image": "6.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 7,
+		"title": "Farmers Market",
+		"description": "Shop fresh produce, baked goods, and handmade crafts from local farmers and artisans.",
+		"location": "Town Square",
+		"date": "Every Saturday",
+		"image": "7.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 8,
+		"title": "Summer Movie Series",
+		"description": "Enjoy family-friendly movies under the stars. Bring a blanket or lawn chair and snacks.",
+		"location": "City Park",
+		"date": "Every Friday night in August",
+		"image": "8.jpg",
+		"isFeatured": true
+	},
+	{
+		"id": 9,
+		"title": "Haunted House",
+		"description": "Get spooked at this annual haunted house. Not recommended for young children.",
+		"location": "Old Mill",
+		"date": "October 25-31, 2023",
+		"image": "9.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 10,
+		"title": "Folk Music Festival",
+		"description": "Listen to traditional folk music from around the world. Food vendors and artisan booths on site.",
+		"location": "Fairgrounds",
+		"date": "July 22-23, 2023",
+		"image": "10.jpg",
+		"isFeatured": true
+	},
+	{
+		"id": 11,
+		"title": "Community Clean-up Day",
+		"description": "Join us in keeping our community clean and beautiful. Supplies provided. Lunch served afterwards.",
+		"location": "City Hall",
+		"date": "April 29, 2023",
+		"image": "11.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 12,
+		"title": "Pet Adoption Fair",
+		"description": "Find your new furry friend at this pet adoption fair. Vendors and pet-related activities on site.",
+		"location": "Animal Shelter",
+		"date": "June 17-18, 2023",
+		"image": "12.jpg",
+		"isFeatured": false
+	},
+	{
+		"id": 13,
+		"title": "Yoga in the Park",
+		"description": "Start your day with a relaxing yoga session in the park. All levels welcome. Bring a mat or towel.",
+		"location": "City Park",
+		"date": "Every Tuesday and Thursday morning",
+		"image": "13.jpg",
+		"isFeatured": true
+	}
+]
